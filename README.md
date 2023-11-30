@@ -2,6 +2,8 @@
 FullTG is a tool for Telegram. Simple to install and easy to use. Updates, new features and support for lifetime!
 
 BUY HERE: https://shoppy.gg/product/YVdsCk6
+VIDEO: https://youtu.be/DpBAr3v3FjA
+For any questions, feel free to message us Telegram: @FullTGSupport
 
 **What are the features?**
 This tool has a total of 29 features and tons of dynamic sub-features! New ones will be implemented!
@@ -23,8 +25,9 @@ This tool has a total of 29 features and tons of dynamic sub-features! New ones 
 * Report any members, groups or channels you want!
 		
 		All tasks above can be done by selected accounts or all accounts of yours!
-
 BUY HERE: https://shoppy.gg/product/YVdsCk6
+VIDEO: https://youtu.be/DpBAr3v3FjA
+For any questions, feel free to message us Telegram: @FullTGSupport
 
 **Whats so special about this?**
 
