@@ -8,11 +8,15 @@ VIDEO: https://youtu.be/DpBAr3v3FjA
 For any questions, feel free to message us Telegram: @FullTGSupport
 
 ## **What are the features?**
-This tool has a total of 29 features and tons of dynamic sub-features! New ones will be implemented!
+This tool has a total of 31 features and tons of dynamic sub-features! New ones will be implemented!
 * Login with as many accounts as you want! (No Limits)
 * Edit the username/first name/last name/bio/profile picture!
 * All edits can be done automatically by the tool!
 * Scrape members from targeted groups! It's also possible to scrape hidden members!
+* Scrape past messages from any channels/groups/users!
+* Scrape all incoming messages from any channels/groups/users!
+* Use those scraped messages in the auto send messages feature!
+* Filter only premium members of the scraped members!
 * Add those scraped members to any group/channel you want!
 * Automatically send messages to any groups/channels or your scraped members!
 * Automatically forward messages to any groups/channels or your scraped members!
