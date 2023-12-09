@@ -52,3 +52,6 @@ For any questions, feel free to message us Telegram: @FullTGSupport
    9. Add random delays between each task!
    10. Easy to install and to use!
    11. Usable on all systems!
+
+##### Please ⭐ the repo to support our project
+![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
