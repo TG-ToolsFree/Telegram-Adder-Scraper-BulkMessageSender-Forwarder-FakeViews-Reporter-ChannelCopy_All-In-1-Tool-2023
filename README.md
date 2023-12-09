@@ -5,6 +5,8 @@ FullTG is a tool for Telegram. Simple to install and easy to use. Updates, new f
 
 VIDEO: https://youtu.be/DpBAr3v3FjA
 
+![giphy](https://user-images.githubusercontent.com/118540164/203226968-5e426f3a-7124-4750-b6f5-63ffcb36eabb.gif)
+
 For any questions, feel free to message us Telegram: @FullTGSupport
 
 ## **What are the features?**
