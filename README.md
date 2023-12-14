@@ -10,8 +10,10 @@ VIDEO: https://youtu.be/DpBAr3v3FjA
 For any questions, feel free to message us Telegram: @FullTGSupport
 
 ## **What are the features?**
-This tool has a total of 31 features and tons of dynamic sub-features! New ones will be implemented!
+This tool has a total of 33 features and tons of dynamic sub-features! New ones will be implemented!
 * Login with as many accounts as you want! (No Limits)
+* Proxy Supported!
+* Auto-Vote on any polls from any targets!
 * Edit the username/first name/last name/bio/profile picture!
 * All edits can be done automatically by the tool!
 * Scrape members from targeted groups! It's also possible to scrape hidden members!
