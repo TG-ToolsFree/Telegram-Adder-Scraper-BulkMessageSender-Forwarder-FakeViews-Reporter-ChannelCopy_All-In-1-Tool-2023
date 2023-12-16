@@ -13,37 +13,37 @@ For any questions, feel free to message us Telegram: @FullTGSupport
 This tool has a total of 33 features and tons of dynamic sub-features! New ones will be implemented!
 * Login with as many accounts as you want! (No Limits)
 
-![giphy](https://im.ezgif.com/tmp/ezgif-1-d4a2253d94.gif)
+![giphy](https://github.com/TG-ToolsFree/Telegram-Adder-Scraper-BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2023/blob/main/gifs/login.gif?raw=true)
 * Proxy Supported!
 * Auto-Vote on any polls from any targets!
 * Edit the username/first name/last name/bio/profile picture!
 * All edits can be done automatically by the tool!
 * Scrape more than 150k members from targeted groups! It's also possible to scrape hidden members!
 
-![giphy](https://im.ezgif.com/tmp/ezgif-1-712c672497.gif)
+![giphy](https://github.com/TG-ToolsFree/Telegram-Adder-Scraper-BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2023/blob/main/gifs/scrape_members.gif?raw=true)
 * Scrape past messages from any channels/groups/users!
 * Scrape all incoming messages from any channels/groups/users!
 * Use those scraped messages in the auto send messages feature!
 * Filter only premium members of the scraped members!
 * Add those scraped members to any group/channel you want!
 
-![giphy](https://im.ezgif.com/tmp/ezgif-1-ce0e2d812e.gif)
+![giphy](https://github.com/TG-ToolsFree/Telegram-Adder-Scraper-BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2023/blob/main/gifs/adding.gif?raw=true)
 * Automatically send messages to any groups/channels or your scraped members!
 
-![giphy](https://im.ezgif.com/tmp/ezgif-1-24e6b6b296.gif)
+![giphy](https://github.com/TG-ToolsFree/Telegram-Adder-Scraper-BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2023/blob/main/gifs/mass-dm.gif?raw=true)
 * Automatically forward messages to any groups/channels or your scraped members!
 * Get any message ID you want!
 * Copy and send all incoming messages of any channels/groups to your channels/groups!
 
-![giphy](https://im.ezgif.com/tmp/ezgif-1-01c3578312.gif)
+![giphy](https://github.com/TG-ToolsFree/Telegram-Adder-Scraper-BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2023/blob/main/gifs/copy_channel.gif?raw=true)
 * Automatically send an afk-message to anyone who messages you!
 * Automatically join to any channels/groups!
 
-![giphy](https://im.ezgif.com/tmp/ezgif-1-6dad408e23.gif)
+![giphy](https://github.com/TG-ToolsFree/Telegram-Adder-Scraper-BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2023/blob/main/gifs/Joiner.gif?raw=true)
 * Automatically leave from any channels/groups!
 * Automatically increase the views of your posts!
 
-![giphy](https://im.ezgif.com/tmp/ezgif-1-0697cb07e2.gif)
+![giphy](https://github.com/TG-ToolsFree/Telegram-Adder-Scraper-BulkMessageSender-Forwarder-FakeViews-Reporter-ChannelCopy_All-In-1-Tool-2023/blob/main/gifs/views.gif?raw=true)
 * Automatically react to any posts of your targets with emojis!
 * Automatically create API ID and HASH!
 * Report any members, groups or channels you want!
